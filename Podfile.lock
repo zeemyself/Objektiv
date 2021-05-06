@@ -1,0 +1,24 @@
+PODS:
+  - CDEvents (1.2.2)
+  - MASShortcut (2.4.0)
+  - Sparkle (1.26.0)
+
+DEPENDENCIES:
+  - CDEvents
+  - MASShortcut
+  - Sparkle
+
+SPEC REPOS:
+  trunk:
+    - CDEvents
+    - MASShortcut
+    - Sparkle
+
+SPEC CHECKSUMS:
+  CDEvents: f311f23de13414f4b3625f1a663b2e1d9a85d982
+  MASShortcut: d9e4909e878661cc42877cc9d6efbe638273ab57
+  Sparkle: d56d028f4b0c123577825f5d1004f6140d77f90e
+
+PODFILE CHECKSUM: 26c5f46c847590e685a05fccc8b09d147387ff41
+
+COCOAPODS: 1.10.1
