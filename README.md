@@ -1,4 +1,4 @@
-Objektiv
+FORK OF Objektiv
 ========================================
 
 ![Objektiv Logo][logo] Objektiv is a utility that lets you switch your
@@ -8,9 +8,11 @@ designer or use multiple browsers in your workflow.
 Install
 ----------------------------------------
 
-The app works with Mac OS X 10.8 (Mountain Lion) onwards.
+The app works with Mac OS X ~~10.8 (Mountain Lion)~~ 10.10 (Yosemite) onwards and Apple Silicon without Rosetta 2
 
-You can either **[download Objektiv][download]** or install it via homebrew: `brew install objektiv`
+~~You can either **[download Objektiv][download]** or install it via homebrew: `brew install objektiv`~~
+
+This is fork can only downloaded on release page **[here](https://github.com/zeemyself/Objektiv/releases)**
 
 Features
 ----------------------------------------
