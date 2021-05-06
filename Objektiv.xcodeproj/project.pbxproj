@@ -684,6 +684,7 @@
 			baseConfigurationReference = 1A16FB89B189A169D683F7E2 /* Pods-Objektiv.debug.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -692,6 +693,7 @@
 				GCC_PREFIX_HEADER = "Objektiv/Objektiv-Prefix.pch";
 				INFOPLIST_FILE = "Objektiv/Objektiv-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MARKETING_VERSION = 0.7.0;
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nthloop.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Objektiv;
@@ -705,6 +707,7 @@
 			baseConfigurationReference = B1FCC4D6C80F9B9D903BC35D /* Pods-Objektiv.release.xcconfig */;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)\"",
@@ -713,6 +716,7 @@
 				GCC_PREFIX_HEADER = "Objektiv/Objektiv-Prefix.pch";
 				INFOPLIST_FILE = "Objektiv/Objektiv-Info.plist";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
+				MARKETING_VERSION = 0.7.0;
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.nthloop.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = Objektiv;
